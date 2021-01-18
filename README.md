@@ -1,7 +1,7 @@
 # NextLevelWeek3
  Projeto Happy foi construido durante esta semana do dia 12 a 18 de outubro de 2020 na Next Level Week.
 Happy é um projeto em homenagem ao dia das crianças onde nele é possível ver os orfanatos na sua cidade e criar agendar horarios para visitas. (As crianças adoram visitas) 🧒❤
- O que é Next Level Week?
+<br><br>O que é Next Level Week?
 O NLW (antiga onmistack) é uma semana onde a Rocketseat mostram como montar uma aplicação do zero com as melhores tecnologias do mercado.
 A Rocketseat tem a consciência que a prática é a melhor aula, então sempre nos inspiram e lançam desafios para a gente se virar sozinho!
 
