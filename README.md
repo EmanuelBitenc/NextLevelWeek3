@@ -12,4 +12,5 @@ Pilhares do metódo de ensino Rocketseat
 Foco: Dominar todas as linguagens e tecnologias é impossível, por isso é importante focar para ir direto ao ponto sem perder tempo.
 Grupo: A comunidade de devs é uma das melhores comunidades que existem! Trabalhar em grupo é essencial, já perdi a conta de quantas vezes ajudei e fui ajudado com erros de programação.
 Prática: E claro, não podia faltar! Quando vemos uma aula, nós podemos entender os conceitos, mas só na prática que aprendemos realmente como faze-los!
-<img src="/image/web.gif">
+
+<img src="/marcusGoncalvess/nextLevelWeek3.0/raw/main/.github/web.gif" style="max-width:100%;">
